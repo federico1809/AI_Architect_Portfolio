@@ -46,6 +46,9 @@ project_03_optim_proc/
 
 ## Autor | Author
 
-- Federico  
+## Autor | Author
+
+- Federico Ceballos Torres
 - GitHub: [https://github.com/federico1809](https://github.com/federico1809)  
-- Email: [tu-email@example.com]
+- Email: [federico.ct@gmail.com]
+- LinkedIn: [tu-linkedin](https://www.linkedin.com/in/federico-ceballos-torres/)

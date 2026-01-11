@@ -48,10 +48,9 @@ AI_Architect_Portfolio/
 > - Reportes y presentaciones ejecutivas / Reports and executive presentations  
 
 ### Proyectos planificados / Planned Projects
-1. **Churn Prediction | Predicción de Churn** – Pipeline de ML + arquitectura cloud + reporte ejecutivo / ML pipeline + cloud architecture + executive report  
-2. **Recommender System | Sistema de Recomendación** – Modelo de recomendación integrado a API / Recommendation model integrated with API  
-3. **Process Optimization | Optimización de Procesos** – IA aplicada a mejora de procesos internos / AI applied to internal process improvement  
-4. **[Proyecto futuro / Future Project]** – Puedes ir agregando más proyectos según avance del portfolio / You can add more projects as your portfolio grows
+1. **Predicción de Churn |Churn Prediction** – Pipeline de ML + arquitectura cloud + reporte ejecutivo / ML pipeline + cloud architecture + executive report  
+2. **Sistema de Recomendación | Recommender System** – Modelo de recomendación integrado a API / Recommendation model integrated with API  
+3. **Optimización de Procesos | Process Optimization** – IA aplicada a mejora de procesos internos / AI applied to internal process improvement  
 
 ---
 
@@ -68,8 +67,8 @@ AI_Architect_Portfolio/
 ## Contacto | Contact
 
 - GitHub: [https://github.com/federico1809](https://github.com/federico1809)  
-- Email: [tu-email@example.com]  
-- LinkedIn: [tu-linkedin]  
+- Email: [federico.ct@gmail.com]
+- LinkedIn: [tu-linkedin](https://www.linkedin.com/in/federico-ceballos-torres/)
 
 ---
 
