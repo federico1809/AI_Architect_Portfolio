@@ -23,6 +23,7 @@ This repository contains **my professional portfolio of AI and Machine Learning 
 
 ## Estructura del repositorio | Repository Structure
 
+```bash
 AI_Architect_Portfolio/
 │
 ├── projects/ # Proyectos individuales de IA / AI individual projects
@@ -35,8 +36,7 @@ AI_Architect_Portfolio/
 ├── docs/ # Documentación general y roadmap de aprendizaje / General documentation and learning roadmap
 │
 └── certifications/ # Material y simulacros para certificaciones (AWS, Azure, GCP) / Material and practice exams for certifications
-
-
+```
 ---
 
 ## Portfolio de Proyectos | Projects Portfolio

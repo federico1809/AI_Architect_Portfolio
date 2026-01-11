@@ -9,16 +9,14 @@ Optimizar las campañas de retención de clientes y reducir churn.
 Optimize customer retention campaigns and reduce churn.
 
 ## Estructura del proyecto | Project Structure
-
+```bash
 project_01_churn/
 ├── data/
 ├── notebooks/
 ├── src/
 ├── reports/
 └── README.md
-
-markdown
-Copiar código
+```
 
 - `data/` – Datasets: raw y cleaned / Datasets: raw and cleaned  
 - `notebooks/` – Exploración de datos, modelado y análisis / Data exploration, modeling, and analysis  

@@ -9,17 +9,14 @@ Mejorar la experiencia del usuario y aumentar ventas mediante recomendaciones pe
 Enhance user experience and increase sales through personalized recommendations.
 
 ## Estructura del proyecto | Project Structure
-
+```bash
 project_02_recommender/
 ├── data/
 ├── notebooks/
 ├── src/
 ├── reports/
 └── README.md
-
-markdown
-Copiar código
-
+```
 - `data/` – Datasets: raw y cleaned / Datasets: raw and cleaned  
 - `notebooks/` – Exploración de datos, modelado y análisis / Data exploration, modeling, and analysis  
 - `src/` – Scripts Python modulares / Modular Python scripts  

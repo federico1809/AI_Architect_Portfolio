@@ -9,17 +9,14 @@ Reducir costos, tiempos y errores en procesos clave de la empresa.
 Reduce costs, time, and errors in key business processes.
 
 ## Estructura del proyecto | Project Structure
-
+```bash
 project_03_optim_proc/
 ├── data/
 ├── notebooks/
 ├── src/
 ├── reports/
 └── README.md
-
-markdown
-Copiar código
-
+```
 - `data/` – Datasets: raw y cleaned / Datasets: raw and cleaned  
 - `notebooks/` – Exploración de datos, modelado y análisis / Data exploration, modeling, and analysis  
 - `src/` – Scripts Python modulares / Modular Python scripts  
