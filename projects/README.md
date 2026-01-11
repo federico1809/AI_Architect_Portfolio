@@ -42,4 +42,4 @@ Apply AI to optimize internal processes and improve operational efficiency.
 - Federico Ceballos Torres
 - GitHub: [https://github.com/federico1809](https://github.com/federico1809)  
 - Email: [federico.ct@gmail.com]
-- LinkedIn: [tu-linkedin](https://www.linkedin.com/in/federico-ceballos-torres/)
+- LinkedIn: [Federico Ceballos Torres](https://www.linkedin.com/in/federico-ceballos-torres/)
